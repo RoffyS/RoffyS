@@ -87,7 +87,7 @@ Market demand forecasting for boardgames using NLP techniques and LLMs to analyz
       </td>
       <td width="50%">
         <p><strong>Alibaba Weekly Sales Dashboard</strong></p>
-        <p>Comprehensive visualization designed for shop owners to analyze sales performance, discover key patterns in customer demographics, and identify anomalies in their weekly sales data. Part of a project that redesigns the data warehousing for Tmall</p>
+        <p>Comprehensive visualization designed for shop owners to analyze sales performance, discover key patterns in customer demographics, and identify anomalies in their weekly sales data. Part of a project that redesigned data warehousing for Tmall.</p>
         <p><a href="https://public.tableau.com/app/profile/roffy.shan/viz/AlibabaWeeklySales/Dashboard1">View Dashboard →</a></p>
       </td>
     </tr>
