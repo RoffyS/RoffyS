@@ -10,9 +10,8 @@ I'm a student at **Emory Goizueta Business School** passionate about building ap
 
 ## 🚀 Featured Projects
 
-### [MarkEverythingDown](https://github.com/RoffyS/MarkEverythingDown)
+### ![GitHub stars](https://img.shields.io/github/stars/RoffyS/MarkEverythingDown?style=social)[MarkEverythingDown](https://github.com/RoffyS/MarkEverythingDown)
 Convert any file (PDF, image, Word, PPT, Excel, notebooks, code snippets) to markdown using powerful multimodal LLM.
-![GitHub stars](https://img.shields.io/github/stars/RoffyS/MarkEverythingDown?style=social)
 
 ### [Qwen-1.5B-DataScienceTA](https://github.com/RoffyS/Qwen-1.5B-DataScienceTA)
 LoRA fine-tuned data science teaching assistant using Qwen-1.5B under MLX framework. Reshape base model's behavior to CoT style and improve performance on data science topics.
