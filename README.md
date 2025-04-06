@@ -10,7 +10,7 @@ I'm a student at **Emory Goizueta Business School** passionate about building ap
 
 ## 🚀 Featured Projects
 
-### ![GitHub stars](https://img.shields.io/github/stars/RoffyS/MarkEverythingDown?style=social)[MarkEverythingDown](https://github.com/RoffyS/MarkEverythingDown)
+### [MarkEverythingDown](https://github.com/RoffyS/MarkEverythingDown)![GitHub stars](https://img.shields.io/github/stars/RoffyS/MarkEverythingDown?style=social)
 Convert any file (PDF, image, Word, PPT, Excel, notebooks, code snippets) to markdown using powerful multimodal LLM.
 
 ### [Qwen-1.5B-DataScienceTA](https://github.com/RoffyS/Qwen-1.5B-DataScienceTA)
