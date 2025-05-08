@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a student at **Emory Goizueta Business School** passionate about building applications for Data Science and LLMs. My work focuses on leveraging AI and ML to create practical tools and solve real-world business problems.
+I'm a recent grad from **Emory Goizueta Business School** passionate about building applications for Data Science and LLMs. My work focuses on leveraging AI and ML to create practical tools and solve real-world business problems.
 
 ## 🚀 Featured Projects
 
