@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a recent grad from **Emory Goizueta Business School** passionate about building applications for Data Science and LLMs. My work focuses on leveraging AI and ML to create practical tools and solve real-world business problems.
+My educational background gives me an interesting fusion of Northern (👑 Smith School of Business@Queen's) and Southern (🦅 Goizueta Business School@Emory) dialects, with another interesting twist of business and data slang. My work centers on leveraging AI and ML to create practical tools and solve real-world business problems.
 
 ## 🚀 Featured Projects
 
