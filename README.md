@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Roffy Shan!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;LLM+Applications+Developer" alt="Typing SVG" />
-</div>
-
 ## 🎓 About Me
 
 I'm a recent grad from **Emory Goizueta Business School** passionate about building applications for Data Science and LLMs. My work focuses on leveraging AI and ML to create practical tools and solve real-world business problems.
