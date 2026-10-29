@@ -10,9 +10,6 @@ My educational background gives me an interesting fusion of Northern (👑 **Smi
 ![GitHub stars](https://img.shields.io/github/stars/RoffyS/MarkEverythingDown?style=social)
 Convert any file (PDF, image, Word, PPT, Excel, notebooks, code snippets) to markdown using powerful multimodal LLM.
 
-### [Qwen-1.5B-DataScienceTA](https://github.com/RoffyS/Qwen-1.5B-DataScienceTA)
-LoRA fine-tuned data science teaching assistant using Qwen-1.5B under MLX framework. Reshape base model's behavior to CoT style and improve performance on data science topics.
-
 ### [Airbnb Price Prediction](https://github.com/RoffyS/Airbnb-Price-Prediction-Leveraging-Sentiment-Analysis-and-NER-Enhanced-Regression)
 Price prediction model leveraging sentiment analysis, NER, and Part-of-Speech tagging to enhance regression models.
 
@@ -48,46 +45,6 @@ Market demand forecasting for boardgames using NLP techniques and LLMs to analyz
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-</div>
-
-## 📊 Data Visualization Portfolio
-
-<div align="center">
-  <a href="https://public.tableau.com/app/profile/roffy.shan/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau_Public-Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Public Portfolio" />
-  </a>
-</div>
-
-### Featured Dashboards
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://public.tableau.com/app/profile/roffy.shan/viz/US_flight_monitor/Dashboard1" target="_blank">
-          <img src="https://public.tableau.com/static/images/US/US_flight_monitor/Dashboard1/1_rss.png" width="100%" alt="US Flight Monitor Dashboard"/>
-        </a>
-      </td>
-      <td width="50%">
-        <p><strong>US Flight Monitor Dashboard</strong></p>
-        <p>Interactive dashboard tracking US flight data, providing insights into flight patterns, delays, and performance metrics across different airlines and airports.</p>
-        <p><a href="https://public.tableau.com/app/profile/roffy.shan/viz/US_flight_monitor/Dashboard1">View Dashboard →</a></p>
-      </td>
-    </tr>
-    <tr></tr> <!-- Spacer row -->
-    <tr>
-      <td width="50%">
-        <a href="https://public.tableau.com/app/profile/roffy.shan/viz/AlibabaWeeklySales/Dashboard1" target="_blank">
-          <img src="https://public.tableau.com/static/images/Al/AlibabaWeeklySales/Dashboard1/1_rss.png" width="100%" alt="Alibaba Weekly Sales Dashboard"/>
-        </a>
-      </td>
-      <td width="50%">
-        <p><strong>Alibaba Weekly Sales Dashboard</strong></p>
-        <p>Comprehensive visualization designed for shop owners to analyze sales performance, discover key patterns in customer demographics, and identify anomalies in their weekly sales data. Part of a project that redesigned data warehousing for Tmall.</p>
-        <p><a href="https://public.tableau.com/app/profile/roffy.shan/viz/AlibabaWeeklySales/Dashboard1">View Dashboard →</a></p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ## 🌐 Connect with Me
